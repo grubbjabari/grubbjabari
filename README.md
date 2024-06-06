@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jabari 👋
+I'm a skilled Data Analyst and Cloud Engineer data visualization,
+ cloud architecture, building web applications. I'm always eager to elarn and explore new technologies.
+
+## 🚀 Skills and Expertise
+- Data Analysis (Python, Power BI, and Tableau)
+- Cloud Architecture (AWS SAA Certified)
+- Database Management (SQL & POstgreSQL)
+
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/jabari-grubb/)
+- [Upwork](https://www.upwork.com/freelancers/~018651bca9943ca25e)
+- [Email](mailto:hirejabarigrubb@gmail.com)
+
+Thank you for stopping by, and I look forward to connecting with you!
 
 <!--
 **grubbjabari/grubbjabari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
