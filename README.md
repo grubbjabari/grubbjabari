@@ -9,7 +9,6 @@ I'm a skilled Data Analyst and Cloud Engineer data visualization,
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jabari-grubb/)
-- [Upwork](https://www.upwork.com/freelancers/~018651bca9943ca25e)
 - [Email](mailto:hirejabarigrubb@gmail.com)
 
 Thank you for stopping by, and I look forward to connecting with you!
