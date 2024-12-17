@@ -5,7 +5,7 @@ I'm a skilled Data Analyst and Cloud Engineer data visualization,
 ## 🚀 Skills and Expertise
 - Data Analysis (Python, Power BI, and Tableau)
 - Cloud Architecture (AWS SAA Certified)
-- Database Management (SQL & POstgreSQL)
+- Database Management (SQL & PostgreSQL)
 
 ## 🔗 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jabari-grubb/)
